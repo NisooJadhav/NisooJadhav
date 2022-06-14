@@ -5,7 +5,7 @@ Full Stack Web Enthusiast
 * ✉️  You can contact me at [nisoojadhav@gmail.com](mailto:nisoojadhav@gmail.com)
 * 🚀  I'm currently working on [Haukara](http://nisoojadhav.github.io/haukara)
 * 🧠  I'm learning Backend
-* 🤝  I'm open to collaborating on Frontend work
+* 🤝  I'm open to collaborating on FullStack work
 
 ### Skills
 
