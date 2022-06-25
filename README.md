@@ -3,7 +3,7 @@ Full Stack Web Enthusiast
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nisoojadhav@gmail.com](mailto:nisoojadhav@gmail.com)
-* 🚀  I'm currently working on [Haukara](http://nisoojadhav.github.io/haukara)
+* 🚀  I'm currently working on [nisoo.tech](http://nisoojadhav.github.io/nisoojadhav.tech)
 * 🧠  I'm learning Backend
 * 🤝  I'm open to collaborating on FullStack work
 
