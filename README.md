@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="programmer gif" style="max-width: 100%; display: inline-block; width:50%"/>
-</div>
+
 
 Full Stack Web Enthusiast
 -------------------------
@@ -37,3 +37,4 @@ Full Stack Web Enthusiast
 <a href="http://www.github.com/nisoojadhav"><img src="https://activity-graph.herokuapp.com/graph?username=nisoojadhav&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/nisoojadhav" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisoojadhav&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
