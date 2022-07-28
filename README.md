@@ -8,9 +8,13 @@ Full Stack Web Enthusiast
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nisoojadhav@gmail.com](mailto:nisoojadhav@gmail.com)
-* 🚀  I'm currently working on [nisoo.tech](http://nisootech.vercel.app)
+* 🚀  I'm currently working on [nisoo.tech](https://nisootech.vercel.app)
 * 🧠  I'm learning Backend
 * 🤝  I'm open to collaborating on FullStack work
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nisootech.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisoojadhav)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nisoojadhav)
 
 ### Skills
 
