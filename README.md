@@ -4,7 +4,7 @@
 </div>
 
 # Hi, I'm Nishant! 👋  
-  A Full Stack Web Enthusiast
+  A Full Stack Web Enthusiast<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 -------------------------
 
 * 🌍  I'm based in India
