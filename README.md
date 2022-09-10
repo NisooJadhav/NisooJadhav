@@ -12,7 +12,7 @@
 * 🚀  I'm currently working on [nisoo.tech](https://nisootech.vercel.app)
 * 🧠  I'm learning Backend
 * 🤝  I'm open to collaborating on FullStack work
-* 💬 Ask me about Frontend and Cooking
+* 💬 Ask me about Frontend, Cooking, and International Affairs
   
 ### Skills
 
