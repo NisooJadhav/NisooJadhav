@@ -34,10 +34,8 @@
 ### Badges
 <h2 align="center">:bar_chart: &nbsp;Github stats </h2>
 <a href="https://github.com/nisoojadhav">
-<img align="" src="https://github-readme-stats.vercel.app/api?username=nisoojadhav&show_icons=true&theme=contrast_height=27" width="450" alt="Nisoo Jadhav's GitHub stats" />
+<img align="" src="https://github-readme-stats.vercel.app/api?username=nisoojadhav&show_icons=true&theme=contrast_height=27" width="650" alt="Nisoo Jadhav's GitHub stats" />
 </a>
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/nisoojadhav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nisoojadhav&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
