@@ -1,4 +1,4 @@
-<body align="center">
+<body>
   <div align="center">
 <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="programmer gif" style="max-width: 100%; display: inline-block; width:50%"/>
 </div>
@@ -26,16 +26,14 @@
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/nisoojadhav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nisoojadhav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nisoojadhav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/16945061/nisoojadhav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nisoojadhav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 <h2 align="center">:bar_chart: &nbsp;Github stats </h2>
 <span>
 <a href="https://github.com/nisoojadhav">
-<img align="" src="https://github-readme-stats.vercel.app/api?username=nisoojadhav&show_icons=true&theme=contrast_height=27" width="500" alt="Nisoo Jadhav's GitHub stats" />
+<img align="" src="https://github-readme-stats.vercel.app/api?username=nisoojadhav&show_icons=true&theme=dark_height=27" width="500" />
 </a>
 <a href="http://www.github.com/nisoojadhav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nisoojadhav&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </span>
