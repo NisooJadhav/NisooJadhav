@@ -1,3 +1,4 @@
+<center>
 <body>
   <div align="center">
 <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="programmer gif" style="max-width: 100%; display: inline-block; width:50%"/>
@@ -34,7 +35,7 @@
 ### Badges
 <h2 align="center">:bar_chart: &nbsp;Github stats </h2>
 <a href="https://github.com/nisoojadhav">
-<img align="" src="https://github-readme-stats.vercel.app/api?username=nisoojadhav&show_icons=true&theme=contrast_height=27" width="650" alt="Nisoo Jadhav's GitHub stats" />
+<img align="" src="https://github-readme-stats.vercel.app/api?username=nisoojadhav&show_icons=true&theme=contrast_height=27" width="500" alt="Nisoo Jadhav's GitHub stats" />
 </a>
 
 <a href="http://www.github.com/nisoojadhav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nisoojadhav&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
