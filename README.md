@@ -13,7 +13,8 @@
 * 🧠  I'm learning Backend
 * 🤝  I'm open to collaborating on FullStack work
 * 💬 Ask me about Frontend, Cooking, and International Affairs
-  ![](https://komarev.com/ghpvc/?username=nisoojadhav&style=for-the-badge)
+  
+![](https://komarev.com/ghpvc/?username=nisoojadhav&style=for-the-badge)
   
 ### Skills
 
