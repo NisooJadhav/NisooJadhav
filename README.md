@@ -13,6 +13,7 @@
 * 🧠  I'm learning Backend
 * 🤝  I'm open to collaborating on FullStack work
 * 💬 Ask me about Frontend, Cooking, and International Affairs
+  ![](https://komarev.com/ghpvc/?username=nisoojadhav&style=for-the-badge)
   
 ### Skills
 
@@ -41,5 +42,4 @@
   </span>
   
 <a href="http://www.github.com/nisoojadhav"><img src="https://activity-graph.herokuapp.com/graph?username=nisoojadhav&bg_color=ffffff&color=0f172a&line=3382ed&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-![](https://komarev.com/ghpvc/?username=nisoojadhav&style=for-the-badge)
 </body>
