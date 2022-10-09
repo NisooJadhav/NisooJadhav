@@ -1,22 +1,26 @@
 <body>
   <div align="center">
-<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="programmer gif" style="max-width: 100%; display: inline-block; width:30%"/>
-</div>
-
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="programmer gif" style="max-width: 100%; display: inline-block; width:40%"/>
+  
 # Hi, I'm Nishant! 👋  
   A Full Stack Web Enthusiast<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
--------------------------
+  -------------------------
 
-* ✉️  You can contact me at [nisoojadhav@gmail.com](mailto:nisoojadhav@gmail.com)
-* 🚀  I'm currently working on [nisoo.tech](https://nisootech.vercel.app)
-* 🤝  I'm open to collaborating on Frontend work
-* 💬 Ask me about Frontend, Cooking, and International Affairs
+  ✉️  You can contact me at [nisoojadhav@gmail.com](mailto:nisoojadhav@gmail.com)<br>
+  🚀  I'm currently working on [nisoo.tech](https://nisootech.vercel.app)<br>
+  🤝  I'm open to collaborating on Frontend work<br>
+  💬 Ask me about Frontend, Cooking, and International Affairs<br>
+
+  -------------------------
+  ![](https://komarev.com/ghpvc/?username=nisoojadhav&style=for-the-badge)
   
-![](https://komarev.com/ghpvc/?username=nisoojadhav&style=for-the-badge)
+  </div>
+
+  <div align="center">  
   
 ### Skills
 
-<p align="left">
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -32,6 +36,7 @@
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 </p>
+  </div>
 
 <h2 align="left">:bar_chart: &nbsp;Github stats </h2>
 <span>
