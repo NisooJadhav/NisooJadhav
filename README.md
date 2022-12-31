@@ -53,12 +53,14 @@
       <td><a href="https://nisoojadhav.github.io/namdev-sutar/">tribute page</a></td>
       <td><a href="https://nisoojadhav.github.io/haukara/">landing page</a></td>
       <td><a href="https://nisoojadhav.github.io/resources">web-resources</a></td>
+    </tr>
+    <tr>
       <td><a href="https://nisoojadhav.github.io/drum-kit/">drum-kit</a></td>
       <td><a href="https://nisoojadhav.github.io/clock/">clock</a></td>
-    </tr>    
-    <tr>
       <td><a href="https://wikipedia-nj.vercel.app/">simple-wiki</a></td>
       <td><a href="https://openai-nj.vercel.app/">simple-openai</a></td>
+    </tr>
+    <tr>
       <td><a href="https://reaction-timer-nj.vercel.app/">reaction-game</a></td>
       <td><a href="https://react-todo-nj.vercel.app/">react-todo</a></td>
       <td><a href="https://workshop-docs.vercel.app/">workshoply</a></td>
@@ -68,4 +70,7 @@
       <td><a href="https://mentorius.netlify.app/">mentorius</a></td>
     </tr>
   </table>
+  
+----  
+will be grateful to these teachers for life: [Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/), [Adrian Hajdin](https://www.youtube.com/@javascriptmastery/), [Jeff Delaney](https://www.youtube.com/@Fireship/), [Mike Dane](https://www.youtube.com/@GiraffeAcademy), [ThePrimeAgen](https://www.youtube.com/@ThePrimeagen), [freeCodeCamp.org](https://www.youtube.com/@freecodecamp), and more counting...
 </body>
