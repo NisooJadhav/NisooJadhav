@@ -4,7 +4,7 @@
     
 <!--   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="programmer gif" style="max-width: 100%; display: inline-block; width: 40%"/> -->
   
-# Hi, I'm Nishant! 👋 
+# Hi, I'm [Nishant](https://linktr.ee/nisoojadhav/)! 👋 
   A Full Stack Web Enthusiast<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
   -------------------------
 
@@ -72,5 +72,5 @@
   </table>
   
 ----  
-will be grateful to these teachers for life: [Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/), [Adrian Hajdin](https://www.youtube.com/@javascriptmastery/), [Jeff Delaney](https://www.youtube.com/@Fireship/), [Mike Dane](https://www.youtube.com/@GiraffeAcademy), [ThePrimeAgen](https://www.youtube.com/@ThePrimeagen), [freeCodeCamp.org](https://www.youtube.com/@freecodecamp), and more counting...
+will be grateful to these teachers for life: [Abdul Bari](https://www.youtube.com/@abdul_bari), [Adrian Hajdin](https://www.youtube.com/@javascriptmastery/), [Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/), [Brad Traversy](https://www.youtube.com/@TraversyMedia), [freeCodeCamp.org](https://www.youtube.com/@freecodecamp), [Jeff Delaney](https://www.youtube.com/@Fireship/), [Mike Dane](https://www.youtube.com/@GiraffeAcademy), [ThePrimeAgen](https://www.youtube.com/@ThePrimeagen), and more counting...
 </body>
