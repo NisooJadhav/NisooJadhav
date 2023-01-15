@@ -71,6 +71,11 @@
     </tr>
   </table>
   
+----
+  
+  <a href="https://drive.google.com/drive/folders/1Pfxv5BLrawIOG5U-eYOpnoQ4R0gpsdLB?usp=share_link">curated study material</a> 📚
+  
 ----  
+  
 will be grateful to these teachers for life: [Abdul Bari](https://www.youtube.com/@abdul_bari), [Adrian Hajdin](https://www.youtube.com/@javascriptmastery/), [Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/), [Brad Traversy](https://www.youtube.com/@TraversyMedia), [freeCodeCamp.org](https://www.youtube.com/@freecodecamp), [Jeff Delaney](https://www.youtube.com/@Fireship/), [Mike Dane](https://www.youtube.com/@GiraffeAcademy), [ThePrimeAgen](https://www.youtube.com/@ThePrimeagen), and more counting...
 </body>
