@@ -85,10 +85,10 @@
       <td><a href="https://nisoojadhav.github.io/clock/">https://nisoojadhav.github.io/clock/</a></td>
     </tr>
     <tr>
-      <td>🌐</td>
-      <td>Simple-Wiki</td>
+      <td>🌍</td>
+      <td>WikiLite</td>
       <td>Simple Wikipedia Clone</td>
-      <td><a href="https://wikipedia-nj.vercel.app/">https://wikipedia-nj.vercel.app/</a></td>
+      <td><a href="https://wikilite.vercel.app/">https://wikilite.vercel.app/</a></td>
     </tr>
     <tr>
       <td>🤖</td>
