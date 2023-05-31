@@ -64,7 +64,7 @@
       <td>🛬</td>
       <td>Haukara landing page</td>
       <td>Haukara is a startup(dummy) that helps Hawkers around the world</td>
-      <td><a href="https://nisoojadhav.github.io/haukara/">https://nisoojadhav.github.io/haukara/</a></td>
+      <td><a href="https://haukara.vercel.app/">https://haukara.vercel.app/</a></td>
     </tr>
     <tr>
       <td>⚡</td>
