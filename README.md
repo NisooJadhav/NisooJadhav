@@ -69,7 +69,7 @@
     <tr>
       <td>⚡</td>
       <td>Web Resources</td>
-      <td>All useful resources for web developers at one place</td>
+      <td>All useful resources for web developers in one place</td>
       <td><a href="https://nisoojadhav.github.io/resources">https://nisoojadhav.github.io/resources</a></td>
     </tr>
     <tr>
@@ -99,7 +99,7 @@
     <tr>
       <td>❄️</td>
       <td>Snowflake</td>
-      <td>help circumvent censorship, defend Internet rights in Authoritarian Regimes</td>
+      <td> Help circumvent censorship, defend Internet rights in Authoritarian Regimes</td>
       <td><a href="https://snowflake-nj.vercel.app/">https://snowflake-nj.vercel.app/</a></td>
     </tr>
     <tr>
@@ -137,6 +137,13 @@
       <td>FloridaMania</td>
       <td>Experience the Sunshine State's captivating tales through a curated selection of news articles.</td>
       <td><a href="https://floridamania.onrender.com/">https://floridamania.onrender.com/</a></td>
+    </tr>
+    <tr>
+      <tr>
+      <td>📖</td>
+      <td>StudyComrades</td>
+      <td>Encrypted Chat Application for text & notes sharing among students, developed using Firebase.</td>
+      <td><a href="https://studycomrades.netlify.app/">https://studycomrades.netlify.app/</a></td>
     </tr>
     <tr>
       <td>📚</td>
