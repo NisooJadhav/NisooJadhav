@@ -18,6 +18,8 @@
 ## Skills
 
   <p align="center">
+    [![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,github,postman,vercel,html,css,js,jquery,php,mysql,mongodb,express,react,nodejs,tailwind,figma,opencv)](https://skillicons.dev)
+    
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />   </a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -37,6 +39,66 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nisoojadhav&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" width="400"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisoojadhav&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" width="400"/></a>
 </span>
+
+## 👨‍💻 [Hackathon](https://devpost.com/nisoojadhav) Projects:
+  <table align="center">
+    <tr align="center">
+      <th>Members</th>
+      <th>Hackathon</th>
+      <th>Product</th>
+    </tr>
+    <tr align="center">
+      <td>
+        <a href="https://github.com/NisooJadhav/clock/graphs/contributors" target="_blank">
+          17 contributors
+        </a>
+      </td>
+      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/51709207-e67a-4d7f-81ad-4536e40602f1" height="80" /> </td>
+      <td> https://nisoojadhav.github.io/clock/ </td>
+    </tr>
+    <tr align="center">
+      <td>Alone</td>
+      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/7ed2ea4e-d18d-4cba-b41e-c176c22200f6" height="80" /> </td>
+      <td> https://brightfeed.onrender.com/ </td>
+    </tr>
+    <tr align="center">
+      <td>Alone</td>
+      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/3c2956a8-81ff-4276-bf93-9f7a998389b3" height="80" /> </td>
+      <td> https://hacker-newz.vercel.app/ </td>
+    </tr>
+    <tr align="center">
+      <td>4 members</td>
+      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/6cb001eb-4efe-4246-a2aa-a8b62576f1a1" height="80" /> </td>
+      <td> 
+        https://studycomrades.netlify.app/
+      </td>
+    </tr>
+    <tr align="center">
+      <td>6 members</td>
+      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/ed70e8d0-7a4e-4981-8994-7b933521b802" height="80" /> </td>
+      <td> 
+        <a href="https://www.youtube.com/watch?v=uHHmKD_PSOc" target="_blank">
+          <img src="https://img.youtube.com/vi/uHHmKD_PSOc/0.jpg" height="80" />
+        </a>
+      </td>
+    </tr>
+    <tr align="center">
+      <td>4 members</td>
+      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/1f2b3204-0622-434e-9ad8-3b281d2280be" height="50" /> </td>
+      <td>
+        https://github.com/TheNxtBigThing/tradeswift
+      </td>
+    </tr>
+    <tr align="center">
+      <td>4 members</td>
+      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/2baf2a4e-d29f-4572-aa5d-fb271e647ae0" height="50" /> </td>
+      <td> 
+        https://mentorius.vercel.app/
+      </td>
+    </tr>
+  </table>
+
+---
 
 ## Visit some of my side projects:
   
@@ -151,37 +213,9 @@
       <td><a href="https://drive.google.com/drive/folders/1Pfxv5BLrawIOG5U-eYOpnoQ4R0gpsdLB?usp=share_link">https://tinyurl.com/mr3d8pfr</a> </td>
     </tr>
   </table>
-  
----
+</div>
 
-## 👨‍💻 [Hackathon](https://devpost.com/nisoojadhav) Projects:
-  <table align="center">
-    <tr align="center">
-      <th>Members</th>
-      <th>Hackathon</th>
-      <th>Product</th>
-    </tr>
-    <tr align="center">
-      <td>Alone</td>
-      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/7ed2ea4e-d18d-4cba-b41e-c176c22200f6" height="100" /> </td>
-      <td> https://brightfeed.onrender.com/ </td>
-    </tr>
-    <tr align="center">
-      <td>Alone</td>
-      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/3c2956a8-81ff-4276-bf93-9f7a998389b3" height="100" /> </td>
-      <td> https://hacker-newz.vercel.app/ </td>
-    </tr>
-    <tr align="center">
-      <td>6 members</td>
-      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/ed70e8d0-7a4e-4981-8994-7b933521b802" height="100" /> </td>
-      <td> 
-        <a href="https://www.youtube.com/watch?v=uHHmKD_PSOc" target="_blank">
-          <img src="https://img.youtube.com/vi/uHHmKD_PSOc/0.jpg" height="100" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  </div>
+  ---
   
-will be grateful to these teachers for life: [Abdul Bari](https://www.youtube.com/@abdul_bari), [Adrian Hajdin](https://www.youtube.com/@javascriptmastery/), [Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/), [Brad Traversy](https://www.youtube.com/@TraversyMedia), [freeCodeCamp.org](https://www.youtube.com/@freecodecamp), [Jeff Delaney](https://www.youtube.com/@Fireship/), [Mike Dane](https://www.youtube.com/@GiraffeAcademy), [ThePrimeAgen](https://www.youtube.com/@ThePrimeagen), and more counting...
+### Will be grateful 🙏 to these teachers for life: [Abdul Bari](https://www.youtube.com/@abdul_bari), [Adrian Hajdin](https://www.youtube.com/@javascriptmastery/), [Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/), [Brad Traversy](https://www.youtube.com/@TraversyMedia), [freeCodeCamp.org](https://www.youtube.com/@freecodecamp), [Jeff Delaney](https://www.youtube.com/@Fireship/), [Mike Dane](https://www.youtube.com/@GiraffeAcademy), [ThePrimeAgen](https://www.youtube.com/@ThePrimeagen), and more counting...
 </body>
