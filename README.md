@@ -11,8 +11,8 @@
   🔎  You can find me as **@nisoojadhav** on most social sites<br>
   🚀  I'm always learning something new!<br>
   🤝  I'm open to collaborating on Frontend work<br>
-  ❓   Ask me about <b>Frontend, Cooking, and International Affairs</b><br>
-    
+  ❓   Ask me about Frontend, Cooking, and International Affairs<br>
+
 <!--   ![](https://komarev.com/ghpvc/?username=nisoojadhav&style=for-the-badge) -->
 <hr>
 
