@@ -11,7 +11,7 @@
   🔎  You can find me as **@nisoojadhav** on most social sites<br>
   🚀  I'm always learning something new!<br>
   🤝  I'm open to collaborating on Frontend work<br>
-  ❓  Ask me about Frontend, Cooking, and International Affairs<br>
+  ❓   Ask me about <b>Frontend, Cooking, and International Affairs</b><br>
     
 <!--   ![](https://komarev.com/ghpvc/?username=nisoojadhav&style=for-the-badge) -->
     
@@ -39,8 +39,7 @@
 </span>
 
 ## Visit some of my side projects:
-  </div>
-      
+  
   <table>
     <tr>
       <th></th>
@@ -153,7 +152,36 @@
     </tr>
   </table>
   
----  
+---
+
+## 👨‍💻 [Hackathon](https://devpost.com/nisoojadhav) Projects:
+  <table align="center">
+    <tr align="center">
+      <th>Members</th>
+      <th>Hackathon</th>
+      <th>Product</th>
+    </tr>
+    <tr align="center">
+      <td>Alone</td>
+      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/7ed2ea4e-d18d-4cba-b41e-c176c22200f6" height="100" /> </td>
+      <td> https://brightfeed.onrender.com/ </td>
+    </tr>
+    <tr align="center">
+      <td>Alone</td>
+      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/3c2956a8-81ff-4276-bf93-9f7a998389b3" height="100" /> </td>
+      <td> https://hacker-newz.vercel.app/ </td>
+    </tr>
+    <tr align="center">
+      <td>6 members</td>
+      <td> <img src="https://github.com/NisooJadhav/NisooJadhav/assets/68807845/ed70e8d0-7a4e-4981-8994-7b933521b802" height="100" /> </td>
+      <td> 
+        <a href="https://www.youtube.com/watch?v=uHHmKD_PSOc" target="_blank">
+          <img src="https://img.youtube.com/vi/uHHmKD_PSOc/0.jpg" height="100" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  </div>
   
 will be grateful to these teachers for life: [Abdul Bari](https://www.youtube.com/@abdul_bari), [Adrian Hajdin](https://www.youtube.com/@javascriptmastery/), [Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/), [Brad Traversy](https://www.youtube.com/@TraversyMedia), [freeCodeCamp.org](https://www.youtube.com/@freecodecamp), [Jeff Delaney](https://www.youtube.com/@Fireship/), [Mike Dane](https://www.youtube.com/@GiraffeAcademy), [ThePrimeAgen](https://www.youtube.com/@ThePrimeagen), and more counting...
 </body>
