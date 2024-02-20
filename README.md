@@ -102,7 +102,7 @@
 ### Side Projects
   
   <table>
-    <tr>
+    <tr align="center">
       <th></th>
       <th>Name</th>
       <th>Description</th>
@@ -112,104 +112,103 @@
       <td>🤵</td>
       <td>Portfolio</td>
       <td>My Portfolio site</td>
-      <td><a href="https://nisootech.vercel.app/">https://nisootech.vercel.app/</a></td>      
+      <td align="center"><a href="https://nisootech.vercel.app/">https://nisootech.vercel.app/</a></td>      
     </tr>
     <tr>
       <td>🙏</td>
       <td>Tribute Page</td>
       <td>Tribute page of Mr. Namdev Sutar(my maternal grandfather), received The National Award For Teachers in 1997 from then-Indian President K. R. Narayanan.</td>
-      <td><a href="https://nisoojadhav.github.io/namdev-sutar/">https://nisoojadhav.github.io/namdev-sutar/</a></td>
+      <td align="center"><a href="https://nisoojadhav.github.io/namdev-sutar/">https://nisoojadhav.github.io/namdev-sutar/</a></td>
     </tr>
     <tr>
       <td>🛬</td>
       <td>Haukara landing page</td>
       <td>Haukara is a startup(dummy) that helps Hawkers around the world</td>
-      <td><a href="https://haukara.vercel.app/">https://haukara.vercel.app/</a></td>
+      <td align="center"><a href="https://haukara.vercel.app/">https://haukara.vercel.app/</a></td>
     </tr>
     <tr>
       <td>⚡</td>
       <td>Web Resources</td>
       <td>All useful resources for web developers in one place</td>
-      <td><a href="https://nisoojadhav.github.io/resources">https://nisoojadhav.github.io/resources</a></td>
+      <td align="center"><a href="https://nisoojadhav.github.io/resources">https://nisoojadhav.github.io/resources</a></td>
     </tr>
     <tr>
       <td>🥁</td>
       <td>DrumKit</td>
       <td>Play Drum with your finger tips</td>
-      <td><a href="https://nisoojadhav.github.io/drum-kit/">https://nisoojadhav.github.io/drum-kit/</a></td>
+      <td align="center"><a href="https://nisoojadhav.github.io/drum-kit/">https://nisoojadhav.github.io/drum-kit/</a></td>
     </tr>
     <tr>
       <td>⏰</td>
       <td>Clock</td>
       <td>Clock+Wallpaper+Quotes+Facts+Jokes+News site. Pin this site to make your day!</td>
-      <td><a href="https://nisoojadhav.github.io/clock/">https://nisoojadhav.github.io/clock/</a></td>
+      <td align="center"><a href="https://nisoojadhav.github.io/clock/">https://nisoojadhav.github.io/clock/</a></td>
     </tr>
     <tr>
       <td>🌍</td>
       <td>WikiLite</td>
       <td>Simple Wikipedia Clone</td>
-      <td><a href="https://wikilite.vercel.app/">https://wikilite.vercel.app/</a></td>
+      <td align="center"><a href="https://wikilite.vercel.app/">https://wikilite.vercel.app/</a></td>
     </tr>
     <tr>
       <td>🤖</td>
       <td>Simple-OpenAI</td>
       <td>AI Assistant using OpenAI API</td>
-      <td><a href="https://openai-nj.vercel.app/">https://openai-nj.vercel.app/</a></td>
+      <td align="center"><a href="https://openai-nj.vercel.app/">https://openai-nj.vercel.app/</a></td>
     </tr>
     <tr>
       <td>❄️</td>
       <td>Snowflake</td>
       <td> Help circumvent censorship, defend Internet rights in Authoritarian Regimes</td>
-      <td><a href="https://snowflake-nj.vercel.app/">https://snowflake-nj.vercel.app/</a></td>
+      <td align="center"><a href="https://snowflake-nj.vercel.app/">https://snowflake-nj.vercel.app/</a></td>
     </tr>
     <tr>
       <td>✅</td>
       <td>React-ToDo</td>
       <td>React To-Dos App</td>
-      <td><a href="https://react-todo-nj.vercel.app/">https://react-todo-nj.vercel.app/</a></td>
+      <td align="center"><a href="https://react-todo-nj.vercel.app/">https://react-todo-nj.vercel.app/</a></td>
     </tr>
     <tr>
       <td>💬</td>
       <td>Chatroom</td>
       <td>Chatroom with Google Auth</td>
-      <td><a href="https://mentorius.netlify.app/chat">https://mentorius.netlify.app/chat</a></td>
+      <td align="center"><a href="https://mentorius.netlify.app/chat">https://mentorius.netlify.app/chat</a></td>
     </tr>
     <tr>
       <td>🔨</td>
       <td>Workshoply</td>
       <td>Full Stack MERN App for managing workshops(part of 5th Semester Minor Project)</td>
-      <td><a href="https://workshop-docs.vercel.app/">https://workshop-docs.vercel.app/</a></td> 
+      <td align="center"><a href="https://workshop-docs.vercel.app/">https://workshop-docs.vercel.app/</a></td> 
     </tr>
     <tr>
       <td>🧑‍🏫</td>
       <td>Mentorius</td>
       <td>doubt solving social media for students with Google Auth(first iteration for 6th Semester Major Project)</td>
-      <td><a href="https://mentorius.netlify.app/">https://mentorius.netlify.app/</a></td>
+      <td align="center"><a href="https://mentorius.netlify.app/">https://mentorius.netlify.app/</a></td>
     </tr>
     <tr>
       <td>💡</td>
       <td>InsightIntellect</td>
       <td>doubt solving Social Media for learners, made using PHP + MySQL(final iteration for 6th Semester Major Project)</td>
-      <td><a href="https://github.com/NisooJadhav/insightintellect">https://github.com/NisooJadhav/insightintellect</a></td>
+      <td align="center"><a href="https://github.com/NisooJadhav/insightintellect">https://github.com/NisooJadhav/insightintellect</a></td>
     </tr>
     <tr>
       <td>🌴</td>
       <td>FloridaMania</td>
       <td>Experience the Sunshine State's captivating tales through a curated selection of news articles.</td>
-      <td><a href="https://floridamania.onrender.com/">https://floridamania.onrender.com/</a></td>
+      <td align="center"><a href="https://floridamania.onrender.com/">https://floridamania.onrender.com/</a></td>
     </tr>
     <tr>
-      <tr>
       <td>📖</td>
       <td>StudyComrades</td>
       <td>Encrypted Chat Application for text & notes sharing among students, developed using Firebase.</td>
-      <td><a href="https://studycomrades.netlify.app/">https://studycomrades.netlify.app/</a></td>
+      <td align="center"><a href="https://studycomrades.netlify.app/">https://studycomrades.netlify.app/</a></td>
     </tr>
     <tr>
       <td>📚</td>
       <td>IT Study</td>
       <td>complete IT Study collection</td>
-      <td><a href="https://drive.google.com/drive/folders/1Pfxv5BLrawIOG5U-eYOpnoQ4R0gpsdLB?usp=share_link">https://tinyurl.com/mr3d8pfr</a> </td>
+      <td align="center"><a href="https://drive.google.com/drive/folders/1Pfxv5BLrawIOG5U-eYOpnoQ4R0gpsdLB?usp=share_link">https://tinyurl.com/mr3d8pfr</a> </td>
     </tr>
   </table>
 
