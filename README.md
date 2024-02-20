@@ -3,9 +3,9 @@
     
 <!--   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="programmer gif" style="max-width: 100%; display: inline-block; width: 40%"/> -->
   
-# Hi, I'm [Nishant](https://linktr.ee/nisoojadhav/)! 👋 
+# Hi 👋 I'm [Nishant](https://linktr.ee/nisoojadhav/)! ✨
     
-## A Full Stack Web Enthusiast<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+### A Full Stack Web Enthusiast<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
   ✉️  You can contact me at [nisoojadhav@gmail.com](mailto:nisoojadhav@gmail.com)<br>
   🔎  You can find me as **@nisoojadhav** on most social sites<br>
@@ -14,33 +14,32 @@
   ❓   Ask me about <b>Frontend, Cooking, and International Affairs</b><br>
     
 <!--   ![](https://komarev.com/ghpvc/?username=nisoojadhav&style=for-the-badge) -->
-    
-## Skills
+<hr>
 
-  <p align="center">
-    [![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,github,postman,vercel,html,css,js,jquery,php,mysql,mongodb,express,react,nodejs,tailwind,figma,opencv)](https://skillicons.dev)
-    
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />   </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+### Skills
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,mysql,mongodb,express,react,nodejs,tailwind,opencv" />
 </p>
 
-<h2>Github stats </h2>
-<span>
+### Tools
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman,vercel,netlify,figma" />
+</p>
+
+<hr>
+
+### GitHub Stats
+<span align="center">
 <a href="http://www.github.com/nisoojadhav">
-<img src="https://github-readme-stats.vercel.app/api?username=nisoojadhav&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" width="400"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nisoojadhav&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" width="400"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=nisoojadhav&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" width="400" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nisoojadhav&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" width="400" height="160" /></a>
 </span>
 
-## 👨‍💻 [Hackathon](https://devpost.com/nisoojadhav) Projects:
+----
+
+### 👨‍💻 [Hackathon](https://devpost.com/nisoojadhav) Projects
   <table align="center">
     <tr align="center">
       <th>Members</th>
@@ -100,7 +99,7 @@
 
 ---
 
-## Visit some of my side projects:
+### Side Projects
   
   <table>
     <tr>
@@ -213,9 +212,9 @@
       <td><a href="https://drive.google.com/drive/folders/1Pfxv5BLrawIOG5U-eYOpnoQ4R0gpsdLB?usp=share_link">https://tinyurl.com/mr3d8pfr</a> </td>
     </tr>
   </table>
-</div>
 
   ---
   
 ### Will be grateful 🙏 to these teachers for life: [Abdul Bari](https://www.youtube.com/@abdul_bari), [Adrian Hajdin](https://www.youtube.com/@javascriptmastery/), [Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/), [Brad Traversy](https://www.youtube.com/@TraversyMedia), [freeCodeCamp.org](https://www.youtube.com/@freecodecamp), [Jeff Delaney](https://www.youtube.com/@Fireship/), [Mike Dane](https://www.youtube.com/@GiraffeAcademy), [ThePrimeAgen](https://www.youtube.com/@ThePrimeagen), and more counting...
+</div>
 </body>
