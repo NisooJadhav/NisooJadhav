@@ -1,17 +1,22 @@
 <body>
-  <div align="center">
+  <div align="">
     
 <!--   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="programmer gif" style="max-width: 100%; display: inline-block; width: 40%"/> -->
   
-# Hi 👋 I'm [Nishant](https://linktr.ee/nisoojadhav/)! ⚡
+## Hi 👋 I'm [Nishant Jadhav](https://linktr.ee/nisoojadhav/)!
 
-### A Full Stack Web Enthusiast<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+#### 🚀Full Stack Developer
+#### 🌐Socials: @nisoojadhav 
+#### 📧nisoojadhav@gmail.com 
+<!-- <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> -->
 
+<!-- <div>
   ✉️  You can contact me at [nisoojadhav@gmail.com](mailto:nisoojadhav@gmail.com)<br>
   🔎  You can find me as **@nisoojadhav** on most social sites<br>
   🚀  I'm always learning something new!<br>
   🤝  I'm open to collaborating on Frontend work<br>
   ❓   Ask me about Frontend, Cooking, and International Affairs<br>
+</div> -->
 
 <!--   ![](https://komarev.com/ghpvc/?username=nisoojadhav&style=for-the-badge) -->
 
