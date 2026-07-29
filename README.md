@@ -23,24 +23,24 @@
 ----
 ### Skills
 
-<p align="center">
+<p align="">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,mysql,mongodb,express,react,nodejs,tailwind,opencv" />
 </p>
 
 ### Tools
 
-<p align="center">
+<p align="">
     <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman,vercel,netlify,figma" />
 </p>
 
 ----
 
+<!-- <span align="center">
 ### GitHub Stats
-<span align="center">
 <a href="http://www.github.com/nisoojadhav">
 <img src="https://github-readme-stats.vercel.app/api?username=nisoojadhav&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" width="400" height="160" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisoojadhav&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" width="400" height="160" /></a>
-</span>
+</span> -->
 
 ### Holopin Board
 [![An image of @nisoojadhav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nisoojadhav)](https://holopin.io/@nisoojadhav)
