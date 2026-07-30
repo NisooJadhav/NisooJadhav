@@ -21,17 +21,21 @@
 <!--   ![](https://komarev.com/ghpvc/?username=nisoojadhav&style=for-the-badge) -->
 
 ----
-### Skills
+### My Tech Stack
 
-<p align="">
+##### Frontend: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, jQuery, Bootstrap, Tailwind, MUI
+##### Backend: Node.js, Express.js, Python
+##### Databases: MySQL, PostgreSQL, MongoDB
+##### DevOps & Cloud: Linux, Git, AWS, Docker
+##### Tools: VS Code, GitHub, Postman, Vercel, Netlify, Hostinger, Cloudflare, Figma
+
+<!-- <p align="">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,mysql,mongodb,express,react,nodejs,tailwind,opencv" />
-</p>
-
+</p> -->
+<!-- <p align="">
 ### Tools
-
-<p align="">
     <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman,vercel,netlify,figma" />
-</p>
+</p> -->
 
 ----
 
