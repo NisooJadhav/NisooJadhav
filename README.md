@@ -20,14 +20,13 @@
 
 <!--   ![](https://komarev.com/ghpvc/?username=nisoojadhav&style=for-the-badge) -->
 
-----
-### My Tech Stack
+### Tech Stack:
 
-##### Frontend: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, jQuery, Bootstrap, Tailwind, MUI
-##### Backend: Node.js, Express.js, Python
-##### Databases: MySQL, PostgreSQL, MongoDB
-##### DevOps & Cloud: Linux, Git, AWS, Docker
-##### Tools: VS Code, GitHub, Postman, Vercel, Netlify, Hostinger, Cloudflare, Figma
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, jQuery, Bootstrap, Tailwind, MUI
+- **Backend:** Node.js, Express.js, Python
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **DevOps & Cloud:** Linux, Git, AWS, Docker
+- **Tools:** VS Code, GitHub, Postman, Vercel, Netlify, Hostinger, Cloudflare, Figma
 
 <!-- <p align="">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,mysql,mongodb,express,react,nodejs,tailwind,opencv" />
@@ -37,7 +36,11 @@
     <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman,vercel,netlify,figma" />
 </p> -->
 
-----
+
+### Achievements:
+
+- Led Team **TheNxtBigThing** to win **4 Hackathons** and Inter-College Competitions
+- **3x Academic Excellence** Prize, **3x GitHub Hacktoberfest** contributor, **$300 Research Grant** Winner
 
 <!-- <span align="center">
 ### GitHub Stats
@@ -46,12 +49,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisoojadhav&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" width="400" height="160" /></a>
 </span> -->
 
-### Holopin Board
+### Holopin Board:
 [![An image of @nisoojadhav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nisoojadhav)](https://holopin.io/@nisoojadhav)
 
-----
 
-### 👨‍💻 [Hackathon](https://devpost.com/nisoojadhav) Projects
+### 👨‍💻 [Hackathon](https://devpost.com/nisoojadhav) Projects:
   <table align="center">
     <tr align="center">
       <th>Members</th>
@@ -109,9 +111,7 @@
     </tr>
   </table>
 
----
-
-### Side Projects
+### Side Projects:
   
   <table>
     <tr align="center">
@@ -238,6 +238,6 @@
 
   ---
   
-### Will be grateful 🙏 to these teachers for life: [Abdul Bari](https://www.youtube.com/@abdul_bari), [Adrian Hajdin](https://www.youtube.com/@javascriptmastery/), [Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/), [Brad Traversy](https://www.youtube.com/@TraversyMedia), [freeCodeCamp.org](https://www.youtube.com/@freecodecamp), [Jeff Delaney](https://www.youtube.com/@Fireship/), [Mike Dane](https://www.youtube.com/@GiraffeAcademy), [ThePrimeAgen](https://www.youtube.com/@ThePrimeagen), and more counting...
+Will be grateful 🙏 to these teachers for life: [Adrian Hajdin](https://www.youtube.com/@javascriptmastery/), [Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/), [Brad Traversy](https://www.youtube.com/@TraversyMedia), [freeCodeCamp.org](https://www.youtube.com/@freecodecamp), [Jeff Delaney](https://www.youtube.com/@Fireship/), [Mike Dane](https://www.youtube.com/@GiraffeAcademy), [ThePrimeAgen](https://www.youtube.com/@ThePrimeagen), and more counting...
 </div>
 </body>
